@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lilypilly!
-- 👀 I’m interested in web development, mostly front-end.
-- 🌱 I’m currently learning JavaScript, C# and MySQL.
+Hi, I’m Lily!
+I’m interested in front-end web development.
+I’m currently learning JavaScript, SCSS, C# and MySQL.
 
 <!---
 lilypilly/lilypilly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
